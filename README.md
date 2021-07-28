@@ -17,3 +17,5 @@ pemrograman _concurrency_ dengan _multi-threading_. Script
 ditulis dengan anotasi yng cukup untuk dipelajari.
 
 Semoga bermanfaat
+
+![ScreenShot](https://github.com/dhenoer/dice-playing-thread/blob/main/Screenshot%20at%202021-07-28%2022-19-23.png?raw=true)
